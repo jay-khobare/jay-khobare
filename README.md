@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay-khobare
 - 👀 I’m interested in web development 
-- 🌱 I’m currently study at Prestige Institute
+- 🌱 I’m currently study at Prestige Institute of Engineering Management & Research
 - 💞️ I’m looking to collaborate for internship on web development
 - 📫 You can reach me at @jaykhobare4132@gmail.com
 
