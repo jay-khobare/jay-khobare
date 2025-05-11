@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently study at Prestige Institute of Engineering Management & Research
 - 💞️ I’m looking to collaborate for internship on web development
-- 📫 You can reach me at @jaykhobare4132@gmail.com
+- 📫 You can reach me at @jaykhobare08@gmail.com
 
 <!---
 jay-khobare/jay-khobare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
